@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: First post using Jekyll
+title: Brandon Bagley - Data & Science
 email: bmbagley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website to show off my info, maybe a few thoughts on life.
