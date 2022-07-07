@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Brandon and I'm an outdoor enthusiast, cyclist, scientist, and data enthusiast.  This is my first attempt at a website to talk about me.  
+My name is Brandon and I'm an outdoor nut, cyclist, scientist, and data enthusiast.  This is my first attempt at a website to talk about me.  
 
 I've worked in environmental cleanup, photography, analytics, and data science.  Currently I reside in Knoxville, Tennessee and try to get outside any time I can.  
 
