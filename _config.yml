@@ -17,7 +17,7 @@ title: Brandon Bagley - Data & Science
 email: bmbagley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website to show off my info, maybe a few thoughts on life.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bmbagley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bmbagley
 
@@ -26,15 +26,16 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-sass:
-  style: compressed
+# sass:
+#   style: compressed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/

@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: home
 ---
 
-<h3>Welcome to my Blog</h3>
+<!-- <h3>Welcome to my Blog</h3>
 
 <div>
   {% for post in site.posts %}
@@ -10,4 +10,4 @@ layout: default
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     </ul>
   {% endfor %}
-</div>
+</div> -->
