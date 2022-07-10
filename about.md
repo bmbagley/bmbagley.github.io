@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+minima:
+  skin: dark
 ---
 
 My name is Brandon and I'm an outdoor nut, cyclist, scientist, and data enthusiast.  This is my first attempt at a website to talk about me.  
